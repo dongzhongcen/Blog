@@ -1,13 +1,13 @@
 import type { BlogPost, Author } from '@/types/blog';
 
 export const author: Author = {
-  name: 'Alex Chen',
+  name: 'dongzhongcen',
   avatar: 'https://api.dicebear.com/7.x/avataaars/svg?seed=Alex',
-  bio: '全栈开发者 | 技术博主 | 热爱开源与分享',
+  bio: '技术博主 | 热爱开源与分享',
   social: {
-    github: 'https://github.com',
+    github: 'https://github.com/dongzhongcen',
     twitter: 'https://twitter.com',
-    email: 'alex@example.com',
+    email: '1077282002@qq.com',
   },
 };
 
